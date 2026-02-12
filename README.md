@@ -60,7 +60,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## 📱 PWA Installation
+## PWA Installation
 
 The app is PWA-ready. To install:
 
