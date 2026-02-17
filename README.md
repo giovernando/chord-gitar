@@ -193,7 +193,4 @@ npm start
 
 MIT License - feel free to use for personal or commercial projects.
 
----
-
-Built with ❤️ for guitarists everywhere.
 
